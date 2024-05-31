@@ -5,8 +5,8 @@ Simple script developed while learning python.  This script parses through a cen
 
 ## Dependencies:
 You must have python3 and pandas installed:
-'''
+```
 
 sudo apt install python3 pip3 pandas
 
-'''
+```
