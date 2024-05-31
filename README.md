@@ -10,3 +10,15 @@ You must have python3 and pandas installed:
 sudo apt install python3 pip3 pandas
 
 ```
+## Using Script:
+
+First pull the git down, then make it executable, then run it:
+
+```
+
+git clone https://github.com/nothumbs1611/squirrel_count.git
+cd squirrel_count.git
+chmod u+x main.py
+python3 main.py
+
+```
